@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "55 CZK for 80 mg of caffeine when a big Monster is 46 and has double the kick, and GymBeam sells me pre-workout for a fraction of that per serving. Natural is nice, but before training or a late study night I'm paying for the caffeine, not the ingredient list.",
+  "objection": "It costs more than Red Bull and Monster and gives me less caffeine than a Monster, plus I'd have to order it from some e-shop with delivery instead of grabbing it at the shop on the way.",
+  "would_change_my_mind": "If it were on GymBeam or Vilgain in a multipack at around 35 to 40 CZK a can, I'd throw a pack in with my next order to try it.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 55
+}

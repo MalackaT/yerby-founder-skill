@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Before a ride I have coffee at home, and on the trail I drink water from my bottle. A fizzy can doesn't fit into either, and I'm not ordering from some separate e-shop when my groceries already come from Rohlík.",
+  "objection": "I already get clean caffeine from coffee and matcha for a few crowns a cup. 55 CZK for a can of flavoured mate is just paying for packaging I don't need.",
+  "would_change_my_mind": "Finding it cold in the fridge at a café at the end of a hike or ride, or being able to add it to my Rohlík order, so I could try one without going out of my way.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

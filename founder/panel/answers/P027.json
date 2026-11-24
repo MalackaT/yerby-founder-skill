@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "values",
+  "reason": "The label is exactly what I look for: water, yerba mate and fruit concentrate, no sweeteners or additives, so I'd try a can or two when I see it in a café. But I'm not ordering it from a separate e-shop when matcha at home costs me a fraction of that.",
+  "objection": "55 CZK a can is a lot for something that does what my matcha or a coffee already does, and it isn't on Rohlík where I actually do my shopping.",
+  "would_change_my_mind": "Seeing it in Rohlík's bio section, ideally with a multipack price closer to 40 CZK a can, so it slots into my weekly order.",
+  "price_too_cheap": 25,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

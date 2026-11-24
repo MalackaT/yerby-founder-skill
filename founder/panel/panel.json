@@ -1,0 +1,125 @@
+{
+ "n": 100,
+ "seed": 731293,
+ "customer": {
+  "business": "yerby, a cold-brewed sparkling yerba mate drink in a 330 ml can, launching in Czechia",
+  "target": "Czech adults aged 18 to 40 who either drink energy drinks like Red Bull or Monster a few times a week, or live an active, health-conscious lifestyle (regular sport, healthy eating, reading labels) and want cleaner, natural energy (all amounts, including your yearly income, are in Czech crowns, CZK, not dollars)",
+  "where": "Czechia",
+  "age": [
+   18,
+   40
+  ],
+  "segments": [
+   {
+    "name": "Student or first job",
+    "share": 0.25,
+    "income": [
+     80000,
+     320000
+    ]
+   },
+   {
+    "name": "Early-career office or hybrid worker",
+    "share": 0.3,
+    "income": [
+     380000,
+     720000
+    ]
+   },
+   {
+    "name": "Shift, manual or driving job",
+    "share": 0.15,
+    "income": [
+     300000,
+     540000
+    ]
+   },
+   {
+    "name": "Active health-focused adult (sport most weeks, eats clean)",
+    "share": 0.18,
+    "income": [
+     400000,
+     900000
+    ]
+   },
+   {
+    "name": "Established professional or freelancer",
+    "share": 0.12,
+    "income": [
+     720000,
+     1400000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Daily energy-drink regular",
+    "share": 0.16,
+    "how": "Drinks a Monster or Red Bull most days, usually grabbed at a petrol station, Albert or Tesco on the way."
+   },
+   {
+    "name": "Value buyer",
+    "share": 0.12,
+    "how": "Buys Semtex, Big Shock or Monster 4-packs on offer; price per can matters more than the brand."
+   },
+   {
+    "name": "Sugar-free switcher",
+    "share": 0.12,
+    "how": "Already moved to Zero or Ultra versions and reads the label for sugar and sweeteners."
+   },
+   {
+    "name": "Gym and fitness",
+    "share": 0.14,
+    "how": "Drinks pre-workout or energy cans around training, buys from fitness e-shops like Vilgain or GymBeam."
+   },
+   {
+    "name": "Health-first label reader",
+    "share": 0.14,
+    "how": "Checks every ingredient list, avoids additives and sweeteners, shops at health stores and on Rohlík's bio section."
+   },
+   {
+    "name": "Outdoor and endurance active",
+    "share": 0.1,
+    "how": "Runs, cycles or hikes most weekends and drinks coffee, matcha or water rather than energy drinks."
+   },
+   {
+    "name": "Trend chaser",
+    "share": 0.08,
+    "how": "Tries new cans from Rohlík or a café fridge and posts the good ones on Instagram."
+   },
+   {
+    "name": "Loyal to one brand",
+    "share": 0.07,
+    "how": "Has drunk the same energy drink for years and knows exactly how it hits."
+   },
+   {
+    "name": "Café and bistro grabber",
+    "share": 0.07,
+    "how": "Buys drinks out of the fridge at the café or bistro where they get lunch or work."
+   }
+  ],
+  "objections": [
+   "55 CZK for 330 ml when a Red Bull is about 45 and a big Monster is about 46",
+   "80 mg of caffeine is less than my usual can, will I even feel it?",
+   "Unsweetened yerba mate sounds bitter or like grass tea",
+   "Every brand says natural now, and YEAHRBA mate is cheaper on Rohlík",
+   "Where can I actually buy it? I'm not ordering cans online",
+   "I'd try one out of curiosity but not switch from what I drink",
+   "Why pay for a can when coffee, matcha or water does the job?",
+   "The label is in English, so is this even a Czech product?"
+  ],
+  "habits": [
+   "you commute by tram or metro and grab a drink at the station shop",
+   "you drive for work and stop at petrol stations several times a week",
+   "you study late before exams with an energy drink next to you",
+   "you go to the gym three times a week after work",
+   "you order groceries from Rohlík most weeks",
+   "you have lunch at the same bistro near work most days",
+   "you work night or early shifts",
+   "you run or cycle most weekends",
+   "you do yoga or pilates twice a week",
+   "you meal-prep and track what you eat"
+  ]
+ },
+ "pitch": "yerby: sparkling cold-brewed yerba mate, Lemon & Grapefruit, in a 330 ml slim can.\nMade from water, yerba mate cold-brewed for 12 hours, and natural lemon and grapefruit concentrate. Nothing else: no synthetic additives, no artificial flavours, no preservatives.\n80 mg of natural caffeine from the yerba mate per can, as a cleaner alternative to a regular energy drink.\n55 CZK a can. Sold on the yerby e-shop with delivery across Czechia, and in selected cafés and bistros."
+}

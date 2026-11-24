@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "The label actually passes my check: water, cold-brewed mate, fruit concentrate, no sweeteners, so I'd grab one can in a café to try it during exam week. But at 55 CZK I won't make it my regular; YEAHRBA on Rohlík does the same job for less.",
+  "objection": "Every brand says natural now, and 55 CZK a can is a lot when I can get yerba mate cheaper on Rohlík with my normal grocery order.",
+  "would_change_my_mind": "Getting it on Rohlík's bio section in a multipack at around 40 CZK a can, so it slots into my weekly order instead of a separate e-shop delivery.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

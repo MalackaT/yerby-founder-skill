@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my pre-workout can on the way to the gym, and that's a gym fridge or a shop, not a café or bistro. I'm not ordering cans online and waiting for a box just to try a flavour, so in a normal week I'd simply never come across it.",
+  "objection": "Where do I actually buy it when I need it? If it's not at my gym or in a normal shop near it, it doesn't fit how I drink these.",
+  "would_change_my_mind": "Seeing it in the fridge at my gym or in a supermarket on my way there, I'd try one for the clean label.",
+  "price_too_cheap": 25,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

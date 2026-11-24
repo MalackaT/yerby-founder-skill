@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "On night shifts I already get my caffeine from coffee or matcha, and if I want a mate I can grab a cheaper one on Rohlík. 55 CZK for one can doesn't give me anything I can't already get, and everyone says natural these days.",
+  "objection": "It's another 'natural' mate at a premium price, and I don't see what makes it better than the cheaper mate I can already order.",
+  "would_change_my_mind": "Seeing it in the fridge at a café near my route after a long ride, priced closer to 40 CZK, so I could try it once without ordering a whole box online.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "On a night or early shift I need something that actually keeps me up, and 80 mg is less than the Monster I usually grab. Paying 55 CZK for less kick than my normal can doesn't make sense to me.",
+  "objection": "80 mg of caffeine is less than my usual can, so I doubt I'd even feel it at 4 a.m., and at 55 CZK it costs more than the drink that works.",
+  "would_change_my_mind": "A free can or a tasting at the café I eat at, so I could see whether it gets me through a shift without the crash. If it did, I'd swap it in for the afternoon can.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

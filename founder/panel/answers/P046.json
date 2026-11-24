@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I buy Monster or Big Shock in 4-packs on offer, so I pay maybe 30-35 CZK a can. 55 CZK for a smaller 330 ml can with 80 mg of caffeine is almost double per can, and I don't care enough about 'natural' to pay that every time.",
+  "objection": "Price per can. It costs more than a Red Bull and has less in it than a big Monster, and I'd also have to order online or find it in some café.",
+  "would_change_my_mind": "A multipack deal online that brings it down to around 35-40 CZK a can, or seeing it on offer in a normal supermarket next to the gym.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 42,
+  "price_too_expensive": 52
+}

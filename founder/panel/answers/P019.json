@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The ingredient list is honestly what I look for, but I buy my drinks at petrol stations between jobs and on Rohlík, and this is only on its own e-shop and in cafés I never sit in. At 55 CZK a can I'm not ordering a box from a brand I've never heard of just to try it.",
+  "objection": "The label is in English, so I'm not sure it's even a Czech product or who actually makes it, and I can't grab it where I actually stop during the day.",
+  "would_change_my_mind": "Seeing it in the bio section on Rohlík or in a petrol station fridge with a Czech label and the producer's details, so I could try one can without ordering a whole pack.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

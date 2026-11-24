@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "It sounds cleaner than an energy drink, but I'm not ordering cans online and \"selected cafés\" tells me nothing about whether I'll ever walk past one. Before a ride or the gym I already have coffee or matcha, so I won't go hunting for this.",
+  "objection": "Where can I actually buy it? If it's not in the fridge at my café, gym or the Billa on my way home, it doesn't exist for me.",
+  "would_change_my_mind": "Seeing it in a fridge somewhere I already go, like my gym, a café near the office or a shop on my running route, so I can grab one cold and try it.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 65,
+  "price_too_expensive": 85
+}

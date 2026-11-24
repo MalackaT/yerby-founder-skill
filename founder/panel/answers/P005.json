@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 4,
+  "reason_code": "values",
+  "reason": "I already only drink Zero versions and read every label, so a can with just water, mate and fruit concentrate and no sweeteners at all is exactly what I look for. 55 CZK doesn't matter to me, so I'd grab one at a café and order a few for exam nights if the taste works.",
+  "objection": "Without any sugar or sweetener it might taste sour or bitter, and honestly a coffee or matcha does the same job, so it has to taste good enough to beat those.",
+  "would_change_my_mind": "If the first can tastes flat or too bitter, I'd go back to coffee and Monster Ultra.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 70,
+  "price_too_expensive": 100
+}

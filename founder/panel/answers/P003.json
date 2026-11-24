@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I drink a can around training three times a week, and from GymBeam or Vilgain I get energy cans for around 25 to 35 crowns, often in a multipack deal. 55 a can for something I expect to taste like grassy tea is too much to switch to on my wage.",
+  "objection": "Unsweetened yerba mate sounds bitter, and 80 mg of caffeine is less kick than my pre-workout, so I'd be paying more for less.",
+  "would_change_my_mind": "A free sample can after the gym or in a GymBeam order that proves it doesn't taste like grass, plus a multipack price closer to 35 a can.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 42,
+  "price_too_expensive": 55
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my drink at the station shop or order pre-workout from GymBeam with my supplements. I'm not ordering cans from a separate e-shop, and I don't hang out in bistros before training, so I'd basically never see it where I actually buy.",
+  "objection": "Where can I actually buy it? If it's not in the fridge at Relay or Albert on my way to the gym, it doesn't exist for me. And 55 CZK for 80 mg is pricier than a Monster that does the job.",
+  "would_change_my_mind": "Finding it in the fridge at the station shop or listed on GymBeam/Vilgain so I could add it to my usual order.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

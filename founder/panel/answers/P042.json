@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "other",
+  "reason": "It's a new can I haven't seen anywhere, the ingredient list fits my tracking and the slim can would look good on my story, so I'd grab one from a café fridge to try. At 55 CZK on my wage, that's a one-off test, not a habit, unless it actually tastes good.",
+  "objection": "Unsweetened yerba mate sounds like bitter grass tea, and 55 CZK is a lot to pay for something that might go down the sink after two sips.",
+  "would_change_my_mind": "A free sample or tasting at a café, or friends posting that it actually tastes fresh and citrusy, would get me buying it regularly instead of once.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

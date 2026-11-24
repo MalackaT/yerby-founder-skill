@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The drink itself sounds like exactly what I'd want next to me while studying, and 55 CZK isn't an issue for me. But I'm not ordering cans online, and 'selected cafés' tells me nothing, so unless it's sitting in the fridge where I already get lunch, I'll just grab what's there.",
+  "objection": "I have no idea where to actually find it. If it's not in the café fridge I already use, it doesn't exist for me.",
+  "would_change_my_mind": "Seeing it in the fridge at the café or bistro where I eat lunch or study.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 65,
+  "price_too_expensive": 85
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The label is honestly what I look for: water, mate, fruit concentrate, nothing else. But I'm not ordering cans from a brand's own e-shop, and unless one of the 'selected cafés' happens to be one I already go to, I just won't come across it in a normal week.",
+  "objection": "Where can I actually buy it? If it isn't on Rohlík or in the health store I shop at, it doesn't exist for me, and 55 CZK for one can in a café is a lot to try something.",
+  "would_change_my_mind": "Seeing it in Rohlík's bio section or on the shelf at my health store, so I can add a few cans to my normal weekly order.",
+  "price_too_cheap": 25,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

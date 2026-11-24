@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "The ingredient list is short and clean, just water, mate and fruit concentrate, so I'd pick up a can or two in a café to try it. But I already have my green tea and the odd bio mate, and at 55 CZK it would stay an occasional treat, not something I drink every day.",
+  "objection": "55 CZK a can is a lot for something I'd drink on the way to work, and I'd want to know whether 'natural concentrate' means added sugar and whether the mate is organic. It isn't in the station shop where I actually grab drinks.",
+  "would_change_my_mind": "An organic certification and a clear statement of the sugar per can, plus being able to find it on Rohlik's bio section so it's in my normal shop.",
+  "price_too_cheap": 25,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

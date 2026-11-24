@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "Money's not the issue, so if I see it in a café I'll grab one to see what yerba mate tastes like after a ride. But I've had the same energy drink for years and I know exactly how it hits, so this is a one-off, not a switch.",
+  "objection": "80 mg feels mild next to what I'm used to and I don't know how mate hits me. My drink works, so why change it.",
+  "would_change_my_mind": "If it actually kept me sharp without the crash on long weekend rides, I could see it replacing a few of my usual cans.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 70,
+  "price_too_expensive": 95
+}

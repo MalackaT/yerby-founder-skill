@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've drunk the same energy drink for years and I know exactly how it hits on a night shift; I'm not swapping that for something I've never tried. Money isn't the issue, but if I wanted yerba mate I'd just grab YEAHRBA on Rohlík where it's cheaper and lands with my groceries.",
+  "objection": "Every brand says natural now, so that alone doesn't tell me anything, and 80 mg in a slim can doesn't tell me it'll carry me through a 4 a.m. stretch the way my usual drink does.",
+  "would_change_my_mind": "Being handed a free cold can at a café before a shift and finding it actually keeps me sharp without the crash, and seeing it on Rohlík so it fits my normal order.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "The label is honestly the cleanest I've seen on a caffeinated can: water, mate, fruit concentrate, done. I'd grab one or two in a café to swap for the energy drink I keep next to me during exam prep, but I'm not committing to a habit yet.",
+  "objection": "55 CZK is a lot for what is basically cold-brewed tea with lemon, when I can make matcha or mate at home for a fraction of that and get the same caffeine.",
+  "would_change_my_mind": "A multipack price on the e-shop closer to 40 CZK a can, plus a bio certification, would make it a regular study-night purchase instead of an occasional treat.",
+  "price_too_cheap": 25,
+  "price_cheap": 38,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

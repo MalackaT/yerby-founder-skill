@@ -1,0 +1,13 @@
+{
+  "id": "P044",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "If I saw it in the fridge at the bistro I'd grab one once just to see what yerba mate tastes like, but I'm on night and early shifts and I'm used to a Monster from the petrol station, so I don't see it becoming my regular thing.",
+  "objection": "55 crowns is more than a Red Bull and 80 mg doesn't sound like it'll keep me going through a night shift, plus the cafés are closed when I actually need the energy.",
+  "would_change_my_mind": "Being able to get it at the petrol station or a non-stop shop for around 40 crowns, so it's there when my shift starts.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

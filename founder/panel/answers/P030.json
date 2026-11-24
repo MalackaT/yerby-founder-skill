@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "values",
+  "reason": "The label is actually clean: water, cold-brewed mate, citrus concentrate, no sweeteners, which is rare for anything in a can. I'd grab one or two at a café before a training session to try it, but at home I'd still make my own matcha.",
+  "objection": "55 CZK for what is basically cold mate with lemon, when I can brew yerba or matcha myself for a fraction of that. Also I'd want to see the sugar content from the concentrate before calling it clean.",
+  "would_change_my_mind": "A full nutrition panel showing near-zero sugar plus a multipack price around 40 CZK a can would make it a weekly pre-workout habit instead of an occasional try.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

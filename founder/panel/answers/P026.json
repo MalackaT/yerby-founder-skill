@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my can at the petrol station while I'm driving for work, and this isn't sold there. I'm not ordering cans online or going to a bistro for one, especially at 55 crowns when a Monster costs me less.",
+  "objection": "It's not where I actually buy, and 55 CZK for one can is a lot on my money when coffee does the job.",
+  "would_change_my_mind": "Seeing it in the fridge at the petrol stations I stop at, for around 40 CZK.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 55
+}

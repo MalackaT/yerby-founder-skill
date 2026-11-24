@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "values",
+  "reason": "The label is the cleanest I've seen on a caffeinated can: water, yerba mate, fruit concentrate, nothing else. So I'd grab one at a bistro out of curiosity, but I don't drink energy drinks and I'm not switching from my usual tea.",
+  "objection": "55 CZK for one can is a lot on my budget for something I'd drink now and then, and I don't really need 80 mg of caffeine. I'd brew loose mate at home for a fraction of that.",
+  "would_change_my_mind": "A bio/organic certification on the yerba mate and a smaller multipack price around 40 CZK a can would make me buy it regularly instead of once.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

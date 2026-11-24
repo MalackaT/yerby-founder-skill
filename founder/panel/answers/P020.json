@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've drunk the same energy drink for years and I know exactly how it hits when I'm cramming at 1am. I'm not going to gamble an exam night on a yerba mate with 80 mg that might feel weaker, and I'm not ordering cans from an e-shop when my usual is at every corner shop.",
+  "objection": "The label is all in English, so I'm not even sure it's a Czech brand, and 80 mg of caffeine from mate sounds like it won't keep me going the way my regular drink does.",
+  "would_change_my_mind": "A free can at a café near the library during exam season so I could feel for myself whether it actually keeps me awake without the crash.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

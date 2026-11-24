@@ -2,18 +2,18 @@
 
 **Verdict: Profitable**
 
-- ✓ Each can earns $17.60 before fixed costs (32% contribution).
-- ✓ Year 1 operating profit: $41,919.
+- ✓ Each can earns 17.60 CZK before fixed costs (32% contribution).
+- ✓ Year 1 operating profit: 41,919 CZK.
 - ✓ 28 of 100 simulated buyers buy (28%, the bar is 25%).
 
 | key number | |
 | --- | ---: |
-| Price | $55.00 a can |
+| Price | 55.00 CZK a can |
 | Profit margin at plan | 14% per can |
 | Break-even | 19 cans a day |
-| Year 1 operating profit | $41,919 |
-| Startup spend | $300,000 |
-| Cash needed before it pays for itself | $308,880 |
+| Year 1 operating profit | 41,919 CZK |
+| Startup spend | 300,000 CZK |
+| Cash needed before it pays for itself | 308,880 CZK |
 | Startup money earned back | not in year 1 |
 | Buyer panel | 28 buy · 72 pass |
 
@@ -196,9 +196,9 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | group | buyers | buy rate |
 | --- | ---: | ---: |
-| $427,000 to $648,000 | 33 | 39% |
-| $648,000 and up | 34 | 26% |
-| under $427,000 | 33 | 18% |
+| 427,000 CZK to 648,000 CZK | 33 | 39% |
+| 648,000 CZK and up | 34 | 26% |
+| under 427,000 CZK | 33 | 18% |
 
 ### Why they pass
 

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my energy cans at the petrol station when I'm driving or before training, I'm not ordering a 12-pack online and walking to a Zásilkovna box for a drink. If I can't pick it out of a fridge at Shell or OMV, it doesn't exist for me.",
+  "objection": "Where can I actually buy it? Only online or at some cafés I never go to, and 54 crowns a can is more than a Monster at the pump on my money.",
+  "would_change_my_mind": "Seeing it cold in the fridge at petrol stations I stop at, or at GymBeam/Vilgain next to my pre-workout, so I can try one can for around 40 CZK.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

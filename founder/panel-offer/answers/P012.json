@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The label is exactly what I look for: no sweeteners, no preservatives, real caffeine. But on about 17,000 CZK a month I can't put 649 CZK into twelve cans of something I've never tasted, when I can brew my own mate before a night shift for a few crowns.",
+  "objection": "54 CZK a can is a luxury for me, and the English label makes me wonder if it's really Czech or just marketed as Czech. I'd want to taste it before committing to a 12-pack.",
+  "would_change_my_mind": "Trying a free can at a launch event, or being able to buy a 4-pack or single cans on Rohlík's bio section for around 35-40 CZK a can.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

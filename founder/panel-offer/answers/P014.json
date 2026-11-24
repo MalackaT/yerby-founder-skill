@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I like the label, real mate, no sweeteners, 4 g of sugar, but I already get my caffeine from coffee and matcha I make myself for a fraction of 54 CZK. Committing 688 CZK with shipping to a 12-pack of something I've never tasted doesn't make sense, numbered cans or not.",
+  "objection": "It's pricier than a Red Bull and much pricier than my own coffee, and I don't know if sparkling mate with grapefruit even tastes good. Twelve cans is a lot to gamble on.",
+  "would_change_my_mind": "Trying a free tasting can at an event or after a race and actually liking it; then I might buy a single at a cafe or a smaller pack for long rides.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

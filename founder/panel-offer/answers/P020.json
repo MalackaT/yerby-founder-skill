@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "I'd grab a single can from the café fridge after pilates or with lunch because 4 g of sugar and natural caffeine is exactly what I look for on a label. I won't order a 12-pack of something I've never tasted, though; if the first can isn't bitter I'll keep buying it at the café.",
+  "objection": "Unsweetened yerba mate sounds like bitter grass tea, and I don't want to commit to twelve cans before I know I like it.",
+  "would_change_my_mind": "Tasting a free can at a café or event and finding it actually refreshing rather than bitter would get me to order the pack or the subscription.",
+  "price_too_cheap": 30,
+  "price_cheap": 45,
+  "price_expensive": 70,
+  "price_too_expensive": 95
+}

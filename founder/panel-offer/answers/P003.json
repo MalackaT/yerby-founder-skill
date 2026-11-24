@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "I like the clean label and the 80 mg of caffeine, but I'm not paying almost 700 CZK for twelve cans of something that might taste like bitter grass tea. I get my pre-workout cans from GymBeam for a lot less, so I'd want to taste one before I commit to a whole pack.",
+  "objection": "Unsweetened yerba mate sounds bitter. If I don't like the first can I'm stuck with eleven more, and at 54 CZK a can it costs more than the energy drinks I already have.",
+  "would_change_my_mind": "Trying a free can at a launch event or at my bistro, and actually liking it. Seeing it on Vilgain or GymBeam would help too.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

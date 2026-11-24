@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The label is actually good, no sweeteners and only fruit sugar, but I'm not ordering a 12-pack of a drink I've never tasted and then walking to a pickup point for it. If I passed one of those partner cafés I might try a can, but I'm not going to look for one.",
+  "objection": "I can't just grab it in a shop next to my usual drinks, and 649 for twelve cans of something I haven't tried is a blind bet. I also don't know what 4 g of sugar tastes like compared to the Zero stuff I drink now.",
+  "would_change_my_mind": "Seeing it in the fridge at Albert, Billa or the gym or bike shop I already go to, so I can buy one single can and taste it first.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

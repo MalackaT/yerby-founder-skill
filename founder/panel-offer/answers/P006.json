@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "54 crowns a can is almost double what I pay for Big Shock or Monster when the 4-packs are on offer, and I'm not committing 649 plus shipping to twelve cans of something I've never tasted. I'd grab a free tasting can at an event, but I won't pay for a whole pack.",
+  "objection": "It's way too expensive per can compared to what I already drink, and the numbered first-run thing doesn't mean anything to me, I just want a cheap kick.",
+  "would_change_my_mind": "A single can or a 4-pack in a normal shop on offer for around 35 CZK a can, so I could try it without buying twelve.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 40,
+  "price_too_expensive": 50
+}

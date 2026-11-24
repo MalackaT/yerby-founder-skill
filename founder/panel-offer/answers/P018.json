@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The label is exactly what I look for, water, mate, fruit, nothing else, and the price means nothing to me. But I grab my drinks at petrol stations between jobs, and I'm not ordering a 12-pack online and picking it up from a Zásilkovna box just to try something new.",
+  "objection": "Where do I actually buy it? It's not at the petrol stations where I stop, it's not on Rohlík, and a handful of partner cafés I'd have to look up on a website isn't how my day works.",
+  "would_change_my_mind": "Seeing it in the fridge at a petrol station I already stop at, or in Rohlík's bio section so it arrives with my normal groceries.",
+  "price_too_cheap": 25,
+  "price_cheap": 45,
+  "price_expensive": 75,
+  "price_too_expensive": 110
+}

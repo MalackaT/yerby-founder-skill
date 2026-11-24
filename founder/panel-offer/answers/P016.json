@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've drunk the same energy drink for years and I know exactly how it hits me, so I'm not committing 649 CZK plus shipping to twelve cans of something I've never tasted. I'd maybe grab a free can at a launch event, but I wouldn't order a pack blind.",
+  "objection": "The label is in English, so is this even a Czech product? And 80 mg of caffeine from yerba mate with no sugar, I'm not sure it will actually wake me up like my usual drink does, and 54 CZK a can is more than I pay now.",
+  "would_change_my_mind": "Trying a free can first and finding it gives me the same kick as my usual drink, then being able to buy a few cans on Rohlík instead of a 12-pack.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

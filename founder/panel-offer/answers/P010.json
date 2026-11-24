@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've had the same energy drink for years and I know exactly how it hits when I'm studying at 1am before an exam. I'm not going to commit 649 CZK to twelve cans of something I've never tasted, and in exam week I'm not experimenting.",
+  "objection": "80 mg is less than my usual can, and I don't know if yerba mate without sugar actually keeps me sharp late at night or just tastes like sour tea. If I need something cleaner I already have coffee or matcha.",
+  "would_change_my_mind": "Trying a free can at a launch event or café on a late study night and finding it keeps me going as well as my usual drink without the crash.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

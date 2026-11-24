@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Olivia",
+  "age": 26,
+  "segment": "Shift, manual or driving job",
+  "income": 371000,
+  "behaviour": "Sugar-free switcher",
+  "behaviour_how": "Already moved to Zero or Ultra versions and reads the label for sugar and sweeteners.",
+  "objection": "55 CZK for 330 ml when a Red Bull is about 45 and a big Monster is about 46",
+  "habit": "you study late before exams with an energy drink next to you"
+ },
+ {
+  "id": "P002",
+  "name": "Sana",
+  "age": 28,
+  "segment": "Student or first job",
+  "income": 295000,
+  "behaviour": "Outdoor and endurance active",
+  "behaviour_how": "Runs, cycles or hikes most weekends and drinks coffee, matcha or water rather than energy drinks.",
+  "objection": "Unsweetened yerba mate sounds bitter or like grass tea",
+  "habit": "you go to the gym three times a week after work"
+ },
+ {
+  "id": "P003",
+  "name": "Hugo",
+  "age": 29,
+  "segment": "Active health-focused adult (sport most weeks, eats clean)",
+  "income": 844000,
+  "behaviour": "Gym and fitness",
+  "behaviour_how": "Drinks pre-workout or energy cans around training, buys from fitness e-shops like Vilgain or GymBeam.",
+  "objection": "Unsweetened yerba mate sounds bitter or like grass tea",
+  "habit": "you have lunch at the same bistro near work most days"
+ },
+ {
+  "id": "P004",
+  "name": "Clara",
+  "age": 38,
+  "segment": "Student or first job",
+  "income": 232000,
+  "behaviour": "Sugar-free switcher",
+  "behaviour_how": "Already moved to Zero or Ultra versions and reads the label for sugar and sweeteners.",
+  "objection": "Where can I actually buy it? I'm not ordering cans online",
+  "habit": "you run or cycle most weekends"
+ },
+ {
+  "id": "P005",
+  "name": "Elena",
+  "age": 31,
+  "segment": "Early-career office or hybrid worker",
+  "income": 703000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new cans from Rohlík or a café fridge and posts the good ones on Instagram.",
+  "objection": "Unsweetened yerba mate sounds bitter or like grass tea",
+  "habit": "you study late before exams with an energy drink next to you"
+ },
+ {
+  "id": "P006",
+  "name": "Sol",
+  "age": 23,
+  "segment": "Early-career office or hybrid worker",
+  "income": 653000,
+  "behaviour": "Value buyer",
+  "behaviour_how": "Buys Semtex, Big Shock or Monster 4-packs on offer; price per can matters more than the brand.",
+  "objection": "I'd try one out of curiosity but not switch from what I drink",
+  "habit": "you have lunch at the same bistro near work most days"
+ },
+ {
+  "id": "P007",
+  "name": "Eli",
+  "age": 29,
+  "segment": "Early-career office or hybrid worker",
+  "income": 712000,
+  "behaviour": "Daily energy-drink regular",
+  "behaviour_how": "Drinks a Monster or Red Bull most days, usually grabbed at a petrol station, Albert or Tesco on the way.",
+  "objection": "Why pay for a can when coffee, matcha or water does the job?",
+  "habit": "you have lunch at the same bistro near work most days"
+ },
+ {
+  "id": "P008",
+  "name": "Tess",
+  "age": 28,
+  "segment": "Shift, manual or driving job",
+  "income": 316000,
+  "behaviour": "Gym and fitness",
+  "behaviour_how": "Drinks pre-workout or energy cans around training, buys from fitness e-shops like Vilgain or GymBeam.",
+  "objection": "Where can I actually buy it? I'm not ordering cans online",
+  "habit": "you work night or early shifts"
+ },
+ {
+  "id": "P009",
+  "name": "Sara",
+  "age": 33,
+  "segment": "Early-career office or hybrid worker",
+  "income": 679000,
+  "behaviour": "Daily energy-drink regular",
+  "behaviour_how": "Drinks a Monster or Red Bull most days, usually grabbed at a petrol station, Albert or Tesco on the way.",
+  "objection": "80 mg of caffeine is less than my usual can, will I even feel it?",
+  "habit": "you go to the gym three times a week after work"
+ },
+ {
+  "id": "P010",
+  "name": "Kai",
+  "age": 20,
+  "segment": "Active health-focused adult (sport most weeks, eats clean)",
+  "income": 690000,
+  "behaviour": "Loyal to one brand",
+  "behaviour_how": "Has drunk the same energy drink for years and knows exactly how it hits.",
+  "objection": "Why pay for a can when coffee, matcha or water does the job?",
+  "habit": "you study late before exams with an energy drink next to you"
+ },
+ {
+  "id": "P011",
+  "name": "Adrian",
+  "age": 24,
+  "segment": "Shift, manual or driving job",
+  "income": 540000,
+  "behaviour": "Daily energy-drink regular",
+  "behaviour_how": "Drinks a Monster or Red Bull most days, usually grabbed at a petrol station, Albert or Tesco on the way.",
+  "objection": "55 CZK for 330 ml when a Red Bull is about 45 and a big Monster is about 46",
+  "habit": "you do yoga or pilates twice a week"
+ },
+ {
+  "id": "P012",
+  "name": "Zara",
+  "age": 36,
+  "segment": "Student or first job",
+  "income": 206000,
+  "behaviour": "Health-first label reader",
+  "behaviour_how": "Checks every ingredient list, avoids additives and sweeteners, shops at health stores and on Rohlík's bio section.",
+  "objection": "The label is in English, so is this even a Czech product?",
+  "habit": "you work night or early shifts"
+ },
+ {
+  "id": "P013",
+  "name": "Callum",
+  "age": 40,
+  "segment": "Student or first job",
+  "income": 83000,
+  "behaviour": "Gym and fitness",
+  "behaviour_how": "Drinks pre-workout or energy cans around training, buys from fitness e-shops like Vilgain or GymBeam.",
+  "objection": "Where can I actually buy it? I'm not ordering cans online",
+  "habit": "you drive for work and stop at petrol stations several times a week"
+ },
+ {
+  "id": "P014",
+  "name": "Felix",
+  "age": 35,
+  "segment": "Early-career office or hybrid worker",
+  "income": 594000,
+  "behaviour": "Outdoor and endurance active",
+  "behaviour_how": "Runs, cycles or hikes most weekends and drinks coffee, matcha or water rather than energy drinks.",
+  "objection": "55 CZK for 330 ml when a Red Bull is about 45 and a big Monster is about 46",
+  "habit": "you meal-prep and track what you eat"
+ },
+ {
+  "id": "P015",
+  "name": "Nia",
+  "age": 22,
+  "segment": "Active health-focused adult (sport most weeks, eats clean)",
+  "income": 796000,
+  "behaviour": "Value buyer",
+  "behaviour_how": "Buys Semtex, Big Shock or Monster 4-packs on offer; price per can matters more than the brand.",
+  "objection": "The label is in English, so is this even a Czech product?",
+  "habit": "you order groceries from Rohlík most weeks"
+ },
+ {
+  "id": "P016",
+  "name": "Ana",
+  "age": 25,
+  "segment": "Early-career office or hybrid worker",
+  "income": 528000,
+  "behaviour": "Loyal to one brand",
+  "behaviour_how": "Has drunk the same energy drink for years and knows exactly how it hits.",
+  "objection": "The label is in English, so is this even a Czech product?",
+  "habit": "you order groceries from Rohlík most weeks"
+ },
+ {
+  "id": "P017",
+  "name": "Theo",
+  "age": 29,
+  "segment": "Established professional or freelancer",
+  "income": 980000,
+  "behaviour": "Health-first label reader",
+  "behaviour_how": "Checks every ingredient list, avoids additives and sweeteners, shops at health stores and on Rohlík's bio section.",
+  "objection": "Why pay for a can when coffee, matcha or water does the job?",
+  "habit": "you meal-prep and track what you eat"
+ },
+ {
+  "id": "P018",
+  "name": "Julian",
+  "age": 21,
+  "segment": "Established professional or freelancer",
+  "income": 1024000,
+  "behaviour": "Health-first label reader",
+  "behaviour_how": "Checks every ingredient list, avoids additives and sweeteners, shops at health stores and on Rohlík's bio section.",
+  "objection": "Where can I actually buy it? I'm not ordering cans online",
+  "habit": "you drive for work and stop at petrol stations several times a week"
+ },
+ {
+  "id": "P019",
+  "name": "Lucia",
+  "age": 38,
+  "segment": "Student or first job",
+  "income": 136000,
+  "behaviour": "Trend chaser",
+  "behaviour_how": "Tries new cans from Rohlík or a café fridge and posts the good ones on Instagram.",
+  "objection": "The label is in English, so is this even a Czech product?",
+  "habit": "you meal-prep and track what you eat"
+ },
+ {
+  "id": "P020",
+  "name": "Sam",
+  "age": 39,
+  "segment": "Active health-focused adult (sport most weeks, eats clean)",
+  "income": 578000,
+  "behaviour": "Café and bistro grabber",
+  "behaviour_how": "Buys drinks out of the fridge at the café or bistro where they get lunch or work.",
+  "objection": "Unsweetened yerba mate sounds bitter or like grass tea",
+  "habit": "you do yoga or pilates twice a week"
+ }
+]

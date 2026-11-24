@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "other",
+  "reason": "A numbered first-run Czech can is exactly the kind of thing I try and post, so I'd grab one single can at a partner cafe for 59 CZK. I'm not paying 649 for twelve of something that might taste like grass tea before I've had one.",
+  "objection": "Unsweetened yerba mate sounds bitter, and next to my Monster while studying I'm not sure an unsweetened lemon-grapefruit tea will actually taste good or keep me going.",
+  "would_change_my_mind": "If the first can actually tastes fresh and not grassy, I'd order the 12-pack before the numbered run sells out; a free tasting can would get me there faster.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 59,
+  "price_too_expensive": 75
+}

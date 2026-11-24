@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I grab my Monster at the petrol station on the way to a shift, I'm not going to order a 12-pack online and wait at a Zásilkovna for a drink I've never tasted. It's 650 plus delivery up front for something that costs more per can than what I already drink.",
+  "objection": "54 CZK a can for 330 ml when a big Monster is 46, and I don't know if 80 mg with no sugar actually wakes me up the same way or just tastes like fizzy tea.",
+  "would_change_my_mind": "Being able to buy a single cold can at Albert or a petrol station for around Red Bull money, or trying a free one first and it actually kicking in.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 48,
+  "price_too_expensive": 60
+}

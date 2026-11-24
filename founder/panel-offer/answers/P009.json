@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I grab a cold Monster at the petrol station or Albert on the way, I don't plan my energy drinks a week ahead. Committing 649 CZK to a 12-pack of something with less caffeine than my usual can, before I've even tasted it, isn't how I buy.",
+  "objection": "80 mg is less than my Monster, so I doubt I'd feel it before the gym, and with no sweetener it might just taste like sour tea.",
+  "would_change_my_mind": "Trying a free cold can at a launch event or a partner café and actually feeling the kick, or seeing it in the fridge at Albert or a petrol station.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

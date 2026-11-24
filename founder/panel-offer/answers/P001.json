@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I like that there are no sweeteners, but paying almost 690 CZK up front with delivery for twelve cans of something I've never tasted is a lot when a Red Bull Zero is 45 at the shop. I'd rather grab one can at a café with the voucher first, but I don't have the voucher without buying the pack.",
+  "objection": "It's not actually sugar-free, up to 4 g per can, and I have no idea if mate with grapefruit tastes good or just bitter. Twelve cans is a big bet on the taste.",
+  "would_change_my_mind": "A free tasting can or a single can in a shop near me, so I know I like the taste before committing to a 12-pack.",
+  "price_too_cheap": 25,
+  "price_cheap": 38,
+  "price_expensive": 50,
+  "price_too_expensive": 62
+}

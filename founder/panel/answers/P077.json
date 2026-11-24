@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "The clean label is exactly what I look for and 55 CZK is no issue, but I only buy drinks from the fridge where I eat lunch, and 'selected cafés' doesn't tell me it's in mine. I'm not ordering cans online, so in a normal month I'd simply never come across it.",
+  "objection": "Where can I actually buy it? Unless it's sitting in the fridge at my usual café or bistro, it doesn't exist for me.",
+  "would_change_my_mind": "Seeing it in the fridge at the café or bistro where I already get lunch.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 70,
+  "price_too_expensive": 95
+}

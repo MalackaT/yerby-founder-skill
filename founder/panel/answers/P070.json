@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My caffeine is already sorted: coffee in the morning, matcha sometimes, water on the bike or trail. I don't see why I'd pay 55 CZK for a can of something I suspect tastes like fizzy grass tea.",
+  "objection": "Unsweetened yerba mate sounds bitter, and with no sugar I worry the lemon and grapefruit won't hide it. At 55 CZK I'm not paying to find out.",
+  "would_change_my_mind": "A free sample at a cafe or at the finish of a race or group ride, so I could taste it before buying.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

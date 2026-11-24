@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "values",
+  "reason": "The label is exactly what I look for: water, yerba mate, fruit concentrate, no sweeteners or additives. I'd order a few cans once from the e-shop to see if I can stand the taste, but it's not something I'd pick up on the road.",
+  "objection": "Unsweetened yerba mate probably tastes bitter, like grass tea, and 55 CZK a can is a lot to pay for something I might pour out. Also I buy my drinks at petrol stations while driving, and it isn't sold there.",
+  "would_change_my_mind": "If it tasted bitter on the first try I wouldn't reorder; if it were sold at the petrol stations I stop at, I'd buy it every week.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

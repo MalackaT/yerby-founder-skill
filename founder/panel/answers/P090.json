@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "55 crowns for one can is a lot on my salary when I can get a Monster or a GymBeam energy can for way less, and I'm not paying that much to find out if unsweetened mate tastes like grass. I'd rather stick with what I know works before training.",
+  "objection": "Unsweetened yerba mate sounds bitter, and at 55 CZK I'm risking good money on something I might pour out after two sips.",
+  "would_change_my_mind": "A free sample or a cheap trial can at the gym or in a GymBeam order, so I could taste it before paying full price.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

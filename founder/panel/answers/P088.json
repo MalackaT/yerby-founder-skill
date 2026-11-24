@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my Monster at the station shop or Albert on the way to a shift, and this isn't sold anywhere I actually walk past. I'm not ordering cans online or going to a bistro just to get my caffeine, especially at 55 a can when a Monster is cheaper and bigger.",
+  "objection": "55 CZK for 330 ml and only 80 mg of caffeine, when a 500 ml Monster costs less and kicks harder, and coffee or water does the job anyway.",
+  "would_change_my_mind": "If it was in the fridge at Albert, Tesco or the metro shop for around 40 CZK, I'd try one to see if it actually keeps me going through a shift.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

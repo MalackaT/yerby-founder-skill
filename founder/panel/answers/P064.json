@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "values",
+  "reason": "The label is actually clean: water, mate, fruit concentrate, nothing else, and that's rare in a can with caffeine. I'd grab one or two at a café to try after the gym, but I'm not ordering a crate until I know I like the taste.",
+  "objection": "55 crowns for one can is a lot when I could brew my own mate or just drink water and coffee, and 'natural concentrate' still makes me want to know how much sugar is in it since the label doesn't say.",
+  "would_change_my_mind": "Seeing the full nutrition label with sugar content and an organic certification, plus a multipack price on the e-shop or Rohlík's bio section so it works out cheaper per can.",
+  "price_too_cheap": 25,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

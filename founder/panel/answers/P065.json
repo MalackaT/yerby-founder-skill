@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have my morning coffee or a matcha, and on a ride or a run I want water, not something fizzy. The ingredients sound fine, but nothing about it replaces what I already drink, and 55 crowns for a can feels like paying for packaging.",
+  "objection": "Why pay 55 CZK for a can when coffee, matcha or water already does the job? Carbonation is the last thing I want mid-workout.",
+  "would_change_my_mind": "Seeing it in the fridge of a café I already go to, so I could try one for the price of a coffee without ordering a pack online.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}

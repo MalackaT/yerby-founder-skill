@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "other",
+  "reason": "A sparkling cold-brewed mate with nothing added is exactly the kind of new can I grab from a café fridge and post if it's good. 55 CZK is nothing for me, so I'd try it once or twice, but I'm not ordering a case from an e-shop off the bat.",
+  "objection": "Novelty wears off fast. Unless it really tastes great and the 80 mg actually carries me through a gym session, it'll be one post and back to what I already drink.",
+  "would_change_my_mind": "For buying regularly rather than once: if it tastes clearly better than the other mate drinks and is in the fridge at the gym or the cafés I go to, so I don't have to plan for it.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 70,
+  "price_too_expensive": 95
+}

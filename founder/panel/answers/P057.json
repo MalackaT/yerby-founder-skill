@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "If it were in the fridge at my bistro I'd grab one once to see what cold-brewed mate tastes like, but my coffee in the morning and water on rides already do the job, so I wouldn't make it a regular thing.",
+  "objection": "55 crowns for a can is more than my espresso, and I don't actually need a replacement for energy drinks because I don't drink them in the first place.",
+  "would_change_my_mind": "If it worked as a pre-ride or pre-run drink that sits better in my stomach than coffee, and came cheaper in a multipack from the e-shop, I could see buying it every weekend.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

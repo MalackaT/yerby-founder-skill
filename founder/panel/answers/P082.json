@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my drink at the station shop on the way to the tram, and this isn't there, so I'm not ordering cans online or hunting for a particular bistro. The price doesn't bother me, but YEAHRBA on Rohlík already covers yerba mate if I want it.",
+  "objection": "It says fruit concentrate but shows no sugar number, so I can't tell if it actually fits my zero-sugar rule, and 'natural' is on every can these days.",
+  "would_change_my_mind": "Seeing it in the station shop fridge with a clear 'X g sugar per can' on the front, ideally close to zero.",
+  "price_too_cheap": 25,
+  "price_cheap": 38,
+  "price_expensive": 60,
+  "price_too_expensive": 85
+}

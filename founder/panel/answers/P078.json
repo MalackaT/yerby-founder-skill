@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "quality",
+  "reason": "Short ingredient list, cold-brewed mate and no junk fits how I eat, and I'd happily try a can at a café after a Sunday ride instead of another flat white. I wouldn't order a box from the e-shop until I know I actually like it.",
+  "objection": "80 mg is less than my morning coffee, so I'm not sure I'd feel anything, and 55 CZK for 330 ml of flavoured mate is close to café-coffee money.",
+  "would_change_my_mind": "If it tasted flat or overly sour on the first try, I'd stop; a multipack discount on the e-shop would get me buying it regularly.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 60,
+  "price_too_expensive": 80
+}

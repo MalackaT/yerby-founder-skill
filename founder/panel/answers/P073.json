@@ -1,0 +1,13 @@
+{
+  "id": "P073",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already drink Red Bull Zero or Monster Ultra for about 45 CZK and it does the job, so paying 55 for a smaller can of something I've never tried isn't happening in a normal week. Natural sounds nice, but not ten crowns nicer.",
+  "objection": "It says fruit concentrate but doesn't tell me how much sugar is in it. If I'm paying more than a Monster I want to see zero or close to zero sugar on the label, and it's not there.",
+  "would_change_my_mind": "A clear sugar number on the can that's near zero, plus a price closer to 45 CZK or a multipack deal so it's not more expensive than my Zero.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 48,
+  "price_too_expensive": 60
+}

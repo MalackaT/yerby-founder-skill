@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "I'd grab one in a café out of curiosity because the clean label fits how I track what I eat, but my Monster or Red Bull is already in my hand from the petrol station every morning and I'm not changing that for one can.",
+  "objection": "It's not where I actually buy my energy drink. I'm not ordering cans off an e-shop, and 80 mg with no sugar might not give me the kick I'm used to.",
+  "would_change_my_mind": "Seeing it in the fridge at Albert, Tesco or the petrol station next to Monster, so it's as easy to grab as what I drink now.",
+  "price_too_cheap": 25,
+  "price_cheap": 40,
+  "price_expensive": 60,
+  "price_too_expensive": 80
+}

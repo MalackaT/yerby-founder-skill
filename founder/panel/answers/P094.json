@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "On my money, 55 CZK for one can is a lot when water costs me nothing and a coffee at the petrol station is cheaper and already part of my routine. And it isn't even sold at the petrol stations where I actually stop, so I'd have to order it online or find a café.",
+  "objection": "55 CZK a can is too much for something I'd drink before a run when water and coffee already do the job. Also, the label is in English, so I'm not sure it's even a Czech product.",
+  "would_change_my_mind": "Seeing it in the petrol station fridge at around 35 CZK, so I could grab one on a long drive or before a weekend ride.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

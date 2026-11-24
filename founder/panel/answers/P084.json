@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've drunk the same energy drink for years and I know exactly how it hits before training, so I'm not switching to something I can't grab at the shop. The clean label is nice, but I'm not ordering cans online and I don't know which cafés stock it.",
+  "objection": "Where do I actually buy it? If it's not in the shop or petrol station I pass every day, it won't replace my usual can, and 80 mg might feel weaker than what I'm used to.",
+  "would_change_my_mind": "Seeing it in the fridge at my gym or the supermarket I already shop at, so I could try one can before a workout without any effort.",
+  "price_too_cheap": 25,
+  "price_cheap": 39,
+  "price_expensive": 59,
+  "price_too_expensive": 75
+}

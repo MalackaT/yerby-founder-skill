@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "quality",
+  "reason": "A sparkling cold-brew mate in a slim can with nothing artificial is exactly the kind of new thing I grab from a café fridge and post. Ten crowns more than a Red Bull doesn't matter to me if it actually tastes good before the gym.",
+  "objection": "I've had mate drinks that taste like wet hay, and if it's bitter or flat I won't buy a second one, let alone post it.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 30,
+  "price_cheap": 42,
+  "price_expensive": 65,
+  "price_too_expensive": 85
+}

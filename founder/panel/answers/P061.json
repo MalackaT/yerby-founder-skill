@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I grab Monster or Big Shock 4-packs on offer and pay maybe 25 to 30 crowns a can, so 55 for one can of something I suspect tastes like grass tea is twice what I pay to get through a night shift. I don't need it to be clean, I need it to work and be cheap.",
+  "objection": "Fifty-five crowns a can for unsweetened yerba mate that will probably taste bitter, with less of a kick than what I already drink.",
+  "would_change_my_mind": "A multipack deal that brings it near 30 crowns a can, or a free sample that proves it doesn't taste like grass.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 50
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my drink at the station shop on the way to a shift, and this isn't there. I'm not ordering cans online or sitting in a café for one, and at 55 CZK it costs more than the Monster Ultra I already drink, which has no sugar either.",
+  "objection": "Every brand says natural now, and the YEAHRBA mate I can get on Rohlík is cheaper. I don't see what makes this worth more, and I can't buy it where I actually buy drinks.",
+  "would_change_my_mind": "Having it in the fridge at the metro station shop for around 40 CZK, so I could try one instead of my usual can.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 48,
+  "price_too_expensive": 60
+}

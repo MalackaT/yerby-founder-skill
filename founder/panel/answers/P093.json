@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "If I saw it in a café I'd grab one just to see what yerba mate tastes like, but at 55 a can I'm not swapping out my Big Shock or Monster that I get for half that on offer.",
+  "objection": "55 CZK for one can when I can get a 4-pack of energy drinks on sale for not much more. And 80 mg is less kick than a big Monster before the gym.",
+  "would_change_my_mind": "A multipack deal that gets it down to around 35 CZK a can, ideally in a normal supermarket so I don't have to order online.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

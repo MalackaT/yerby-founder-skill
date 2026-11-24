@@ -1,0 +1,319 @@
+{
+ "business": "yerby, a cold-brewed sparkling yerba mate drink in a 330 ml can, launching in Czechia",
+ "seed": 731293,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 28,
+ "passes": 72,
+ "buy_rate": 0.28,
+ "by_segment": [
+  [
+   "Established professional or freelancer",
+   12,
+   0.4166666666666667
+  ],
+  [
+   "Active health-focused adult (sport most weeks, eats clean)",
+   18,
+   0.3333333333333333
+  ],
+  [
+   "Early-career office or hybrid worker",
+   30,
+   0.3333333333333333
+  ],
+  [
+   "Shift, manual or driving job",
+   15,
+   0.2
+  ],
+  [
+   "Student or first job",
+   25,
+   0.16
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Trend chaser",
+   8,
+   0.875
+  ],
+  [
+   "Health-first label reader",
+   14,
+   0.7857142857142857
+  ],
+  [
+   "Café and bistro grabber",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "Outdoor and endurance active",
+   10,
+   0.2
+  ],
+  [
+   "Value buyer",
+   12,
+   0.16666666666666666
+  ],
+  [
+   "Loyal to one brand",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "Daily energy-drink regular",
+   16,
+   0.125
+  ],
+  [
+   "Sugar-free switcher",
+   12,
+   0.08333333333333333
+  ],
+  [
+   "Gym and fitness",
+   14,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$427,000 to $648,000",
+   33,
+   0.3939393939393939
+  ],
+  [
+   "$648,000 and up",
+   34,
+   0.2647058823529412
+  ],
+  [
+   "under $427,000",
+   33,
+   0.18181818181818182
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   30,
+   [
+    "55 CZK for one can is too much when I'm on a starter salary and I already grab mate or a pre-workout for less on Rohlík or GymBeam. Clean ingredients are nice, but every brand says natural now.",
+    "I drink a can around training three times a week, and from GymBeam or Vilgain I get energy cans for around 25 to 35 crowns, often in a multipack deal. 55 a can for something I expect to taste like grassy tea is too much to switch to on my wage."
+   ],
+   [
+    "P002",
+    "P003"
+   ]
+  ],
+  [
+   "convenience",
+   26,
+   [
+    "I grab my energy drink at the petrol station or Albert on the way, and this is only online or in cafés I don't stop at while driving. The cleaner ingredients appeal to me, but I'm not ordering cans to my house for something I've never tasted and suspect tastes like grass tea.",
+    "It sounds like exactly the kind of can I'd try and post, but I'm not ordering drinks from some e-shop, and 'selected cafés' tells me nothing about whether I'll ever see it. If it's not on Rohlík or in a fridge I walk past, it just won't happen this month."
+   ],
+   [
+    "P001",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   11,
+   [
+    "I've drunk the same energy drink for years and I know exactly how it hits when I'm cramming at 1am. I'm not going to gamble an exam night on a yerba mate with 80 mg that might feel weaker, and I'm not ordering cans from an e-shop when my usual is at every corner shop.",
+    "Before a ride I have coffee at home, and on the trail I drink water from my bottle. A fizzy can doesn't fit into either, and I'm not ordering from some separate e-shop when my groceries already come from Rohlík."
+   ],
+   [
+    "P020",
+    "P032"
+   ]
+  ],
+  [
+   "need",
+   3,
+   [
+    "Before training I want a proper kick, and 80 mg is less than my usual can or a scoop of pre-workout. At 55 CZK a can that's more money for less effect, so I'd just keep ordering from GymBeam.",
+    "On a night or early shift I need something that actually keeps me up, and 80 mg is less than the Monster I usually grab. Paying 55 CZK for less kick than my normal can doesn't make sense to me."
+   ],
+   [
+    "P009",
+    "P013"
+   ]
+  ],
+  [
+   "quality",
+   1,
+   [
+    "Unsweetened yerba mate sounds like bitter grass tea to me, and I'm not paying 55 crowns to find out when I get pre-workout or energy cans from GymBeam for much less. 80 mg of caffeine isn't more kick than what I already drink before training."
+   ],
+   [
+    "P024"
+   ]
+  ],
+  [
+   "trust",
+   1,
+   [
+    "Fruit concentrate means sugar, and the pitch never says how many grams per can, so as someone who only drinks Zero versions I'm not ordering it blind. And if I want a mate, YEAHRBA is already in my Rohlík basket for less."
+   ],
+   [
+    "P097"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "values",
+   9,
+   [
+    "I already only drink Zero versions and read every label, so a can with just water, mate and fruit concentrate and no sweeteners at all is exactly what I look for. 55 CZK doesn't matter to me, so I'd grab one at a café and order a few for exam nights if the taste works.",
+    "The label is exactly what I look for: water, yerba mate and fruit concentrate, no sweeteners or additives, so I'd try a can or two when I see it in a café. But I'm not ordering it from a separate e-shop when matcha at home costs me a fraction of that."
+   ],
+   [
+    "P005",
+    "P027"
+   ]
+  ],
+  [
+   "quality",
+   6,
+   [
+    "If it's in the fridge at the bistro where I eat lunch, a clean yerba mate with just three ingredients beats a Monster for me, and 55 CZK is normal café money. I'd grab one or two to try, but I won't order cans from an e-shop and it isn't at the petrol stations where I actually stop most.",
+    "The label is honestly the cleanest I've seen on a caffeinated can: water, mate, fruit concentrate, done. I'd grab one or two in a café to swap for the energy drink I keep next to me during exam prep, but I'm not committing to a habit yet."
+   ],
+   [
+    "P028",
+    "P031"
+   ]
+  ],
+  [
+   "other",
+   5,
+   [
+    "A sparkling cold-brewed mate in a slim can is exactly the kind of new thing I grab from a café fridge to try and post, so I'd buy one out of curiosity and maybe a second if it actually tastes good. Past that, it has to beat my usual coffee or matcha, and I'm not sure it will.",
+    "A new sparkling mate in a slim can with a clean label is exactly the kind of thing I grab from a café fridge to try and post. I'd buy one out of curiosity, maybe a second after a weekend ride if it doesn't taste like grass."
+   ],
+   [
+    "P018",
+    "P022"
+   ]
+  ],
+  [
+   "habit",
+   4,
+   [
+    "Money's not the issue, so if I see it in a café I'll grab one to see what yerba mate tastes like after a ride. But I've had the same energy drink for years and I know exactly how it hits, so this is a one-off, not a switch.",
+    "If I saw it in the fridge at the bistro I'd grab one once just to see what yerba mate tastes like, but I'm on night and early shifts and I'm used to a Monster from the petrol station, so I don't see it becoming my regular thing."
+   ],
+   [
+    "P021",
+    "P044"
+   ]
+  ],
+  [
+   "price",
+   3,
+   [
+    "The label actually passes my check: water, cold-brewed mate, fruit concentrate, no sweeteners, so I'd grab one can in a café to try it during exam week. But at 55 CZK I won't make it my regular; YEAHRBA on Rohlík does the same job for less.",
+    "If I saw it in a café I'd grab one can once just to see what yerba mate tastes like, but at 55 CZK it's almost double what I pay per can for Monster or Big Shock on offer, so it's not replacing my exam-night drink."
+   ],
+   [
+    "P023",
+    "P069"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "I read labels and a natural 80 mg caffeine drink with nothing added is exactly what I'd rather drink than my daily Monster, and 10 CZK more a can doesn't matter to me. I'd try it once, probably at a café or with a small e-shop order, to see if it actually keeps me going."
+   ],
+   [
+    "P068"
+   ]
+  ]
+ ],
+ "flip": [
+  "Seeing it in the fridge at a petrol station or Albert so I could try one can on the way, ideally after a free sample proves it isn't bitter.",
+  "Seeing it on Rohlík or GymBeam at around 35-40 CZK, or a multipack deal that brings the per-can price down to that.",
+  "A free sample can after the gym or in a GymBeam order that proves it doesn't taste like grass, plus a multipack price closer to 35 a can.",
+  "Seeing it on Rohlík or in the fridge at a café I actually go to, so I can grab one can on impulse.",
+  "If it was in the fridge at Albert or Tesco for around 40-45 CZK, I'd try it on a yoga day instead of a Monster.",
+  "Seeing it in the fridge at the petrol stations I stop at (Shell, OMV, Orlen) next to Red Bull, at about the same price.",
+  "Seeing it in a supermarket multipack on offer at around 30 crowns a can, so I could try it without losing money.",
+  "A stronger version with around 150 mg of caffeine, sold in multipacks on Vilgain or GymBeam at a lower price per can.",
+  "A free sample or a multipack on Vilgain or GymBeam at around 35 CZK a can, so I could try it before a long ride without paying café prices.",
+  "Seeing it on Rohlik in a multipack on offer at around 30 CZK a can.",
+  "Seeing it in the fridge at Albert or Tesco at around 40 CZK, or a free sample that proves it doesn't taste like grass.",
+  "A free can or a tasting at the café I eat at, so I could see whether it gets me through a shift without the crash. If it did, I'd swap it in for the afternoon can.",
+  "Seeing it in a fridge somewhere I already go, like my gym, a café near the office or a shop on my running route, so I can grab one cold and try it.",
+  "If it sat in the fridge at the café where I eat lunch at around 40 CZK, or with a lunch-combo deal, I'd try it.",
+  "Seeing it in the fridge at the café or bistro where I eat lunch or study.",
+  "Seeing it in the fridge at a café near my route after a long ride, priced closer to 40 CZK, so I could try it once without ordering a whole box online.",
+  "Seeing it in the bio section on Rohlík or in a petrol station fridge with a Czech label and the producer's details, so I could try one can without ordering a whole pack.",
+  "A free can at a café near the library during exam season so I could feel for myself whether it actually keeps me awake without the crash.",
+  "Trying a free sample at my lunch bistro and finding it actually tastes good, or seeing it on Vilgain or GymBeam in a multipack at around 35 CZK a can.",
+  "Seeing it in Rohlík's bio section or on the shelf at my health store, so I can add a few cans to my normal weekly order.",
+  "Seeing it in the fridge at the petrol stations I stop at, for around 40 CZK.",
+  "Trying it free or as a cheap single can in a café after a hike and finding it actually tastes good and refreshing, at a price closer to 35 CZK.",
+  "Finding it cold in the fridge at a café at the end of a hike or ride, or being able to add it to my Rohlík order, so I could try one without going out of my way.",
+  "Being handed a free cold can at a café before a shift and finding it actually keeps me sharp without the crash, and seeing it on Rohlík so it fits my normal order.",
+  "A multipack deal that brings it to around 30 CZK a can, ideally on Rohlík or in a supermarket on offer.",
+  "If it were on GymBeam or Vilgain in a multipack at around 35 to 40 CZK a can, I'd throw a pack in with my next order to try it.",
+  "Seeing it in the fridge at petrol stations or Albert for around 35-40 CZK, so I could swap it for my Ultra on shift.",
+  "Seeing it in the fridge at the petrol stations I stop at, or on Vilgain or GymBeam so I could add it to an order I'm already making.",
+  "Seeing it in the fridge at the petrol stations or Albert I already stop at, for around 45 crowns.",
+  "Seeing it at the petrol stations where I already stop, at around 35-40 CZK, with something on the can that tells me it's made here.",
+  "Seeing it in the station shop fridge or on a multipack deal at around 30 crowns a can.",
+  "Finding it in the fridge at the station shop or listed on GymBeam/Vilgain so I could add it to my usual order.",
+  "A multipack deal online that brings it down to around 35-40 CZK a can, or seeing it on offer in a normal supermarket next to the gym.",
+  "If a café near my gym had it at around 35 CZK and I could try one first, I might grab it now and then as a treat after a workout.",
+  "Seeing it in the fridge at the petrol stations I stop at, next to Red Bull Zero.",
+  "Seeing it in the fridge at my regular supermarket or a sports shop, with a single can I could try before a weekend ride.",
+  "Seeing it in the fridge at my gym or in a supermarket on my way there, I'd try one for the clean label.",
+  "Seeing it in the chilled section at Albert or Tesco next to the energy drinks, ideally at around 45 CZK, so I could try one without going out of my way.",
+  "Seeing it in the fridge at Albert, Tesco or a petrol station, ideally closer to 45 CZK.",
+  "A price around 35-40 CZK, or getting it on Rohlík in a multipack so it arrives with my normal shopping.",
+  "Seeing it in the fridge at Albert or Tesco next to Red Bull for about 40 CZK, or getting a free can to try, so I know it actually tastes good.",
+  "Seeing it in the fridge at the petrol stations I stop at, or listed on Vilgain or GymBeam so I can add it to my usual order, at around 45 CZK.",
+  "If it were in Rohlík's bio section for around 35 CZK, so I could add a few cans to my weekly order and try it without paying extra for delivery.",
+  "Having it on Rohlík so I can add a few cans to my normal weekly order.",
+  "A multipack deal that brings it near 30 crowns a can, or a free sample that proves it doesn't taste like grass.",
+  "Seeing it in the station shop or supermarket on a multipack offer that brings it down to about 35-40 CZK a can.",
+  "Seeing it in the fridge of a café I already go to, so I could try one for the price of a coffee without ordering a pack online.",
+  "A multipack in the station shop or supermarket that comes out at around 30 to 35 crowns a can on offer.",
+  "Seeing it on Rohlík or GymBeam at around 40 CZK, or a free can at my gym so I can taste whether it's actually better than YEAHRBA.",
+  "A free sample at a cafe or at the finish of a race or group ride, so I could taste it before buying.",
+  "Seeing it in the fridge at Albert, Tesco or a petrol station so I could try one on the spot.",
+  "A clear sugar number on the can that's near zero, plus a price closer to 45 CZK or a multipack deal so it's not more expensive than my Zero.",
+  "Seeing it in the fridge at Albert or Tesco next to Red Bull for around 40 CZK, so I could try one on impulse.",
+  "Seeing it in the fridge at the café or bistro where I already get lunch.",
+  "A multipack on Vilgain or GymBeam that brings it down to around 35 CZK a can, with a Czech label so I know who makes it.",
+  "Trying a can for free or cheap at a café and finding it actually keeps me sharp through a shift without the crash.",
+  "Seeing it in the station shop fridge with a clear 'X g sugar per can' on the front, ideally close to zero.",
+  "Seeing it in the fridge at Albert, Tesco or a petrol station at around 40-45 CZK so I could try it on my normal route.",
+  "Seeing it in the fridge at my gym or the supermarket I already shop at, so I could try one can before a workout without any effort.",
+  "A multipack deal that brings it down to about 30 CZK a can, sold in the station shops I pass every day.",
+  "Seeing it in the fridge at Albert, Tesco or the petrol station I pass, or at my lunch bistro, so I can try one can without any effort.",
+  "Seeing it on Rohlík or GymBeam as a multipack at around 35-40 CZK a can, so I could add it to my normal order and swap out some of my Monsters without thinking about it.",
+  "If it was in the fridge at Albert, Tesco or the metro shop for around 40 CZK, I'd try one to see if it actually keeps me going through a shift.",
+  "A multipack deal on Rohlík that brings it down to around 35 CZK a can, cheaper than Red Bull.",
+  "A free sample or a cheap trial can at the gym or in a GymBeam order, so I could taste it before paying full price.",
+  "Seeing it in the fridge at Albert or Tesco next to Red Bull, ideally at around 40 CZK, so I could try one without any effort.",
+  "Seeing it in the petrol station fridge at around 35 CZK, so I could grab one on a long drive or before a weekend ride.",
+  "Tasting a free can at a café or the gym and finding it actually tastes good and keeps me focused through a long evening.",
+  "A clear label showing zero or near-zero sugar and no sweeteners, and getting it on Rohlík or at my gym fridge at about the same price as YEAHRBA.",
+  "A clear label showing close to zero sugar (under about 2 g per can), and finding it in the fridge at my lunch bistro so I could try one without ordering a delivery.",
+  "A clear 0 g or near-zero sugar on the can and a price around 45 CZK in a shop I actually walk past, like Albert or Billa.",
+  "Having it in the fridge at the metro station shop for around 40 CZK, so I could try one instead of my usual can."
+ ],
+ "purchases_first_month_per_buyer": 1.7857142857142858,
+ "price_answers": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already buy energy cans and pre-workout in bulk from GymBeam for way less, and 55 crowns for one can with only 80 mg of caffeine is half the kick of a Monster at a higher price. I might glance at it at the bistro, but I wouldn't pay that before training.",
+  "objection": "The label is all English and I can't tell if it's even a Czech product, and 55 CZK for 80 mg of caffeine doesn't feel worth it next to what I already drink.",
+  "would_change_my_mind": "A multipack on Vilgain or GymBeam that brings it down to around 35 CZK a can, with a Czech label so I know who makes it.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

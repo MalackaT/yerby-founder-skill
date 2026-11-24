@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I grab my Monster at the petrol station or Albert on the way, and this isn't there. It's only on an e-shop or in cafés I don't go to, and 55 CZK is more than what I already pay for something I know works.",
+  "objection": "It's unsweetened yerba mate, so I expect it to taste bitter or like grass tea, and I'm not paying 55 crowns plus delivery to find out.",
+  "would_change_my_mind": "Seeing it in the fridge at Albert or Tesco next to Red Bull for about 40 CZK, or getting a free can to try, so I know it actually tastes good.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 48,
+  "price_too_expensive": 60
+}

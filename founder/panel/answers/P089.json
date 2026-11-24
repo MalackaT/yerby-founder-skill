@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I buy Semtex or Monster 4-packs on offer and I count the price per can. 55 CZK for 330 ml costs more than a Red Bull and more than a big Monster that's half again the size, so I'd just keep grabbing my 4-pack on Rohlík.",
+  "objection": "It costs more per can and per ml than what I already drink, and 'cleaner' and 'natural' aren't worth paying extra for when caffeine is caffeine to me.",
+  "would_change_my_mind": "A multipack deal on Rohlík that brings it down to around 35 CZK a can, cheaper than Red Bull.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 42,
+  "price_too_expensive": 55
+}

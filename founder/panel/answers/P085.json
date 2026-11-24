@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "55 crowns for one can is about double what I pay per can for a Semtex or Monster 4-pack on offer, and I'm not ordering drinks from an e-shop. I might try one out of curiosity if I saw it somewhere, but it's not at the station shop where I actually buy.",
+  "objection": "Price per can. 80 mg of caffeine is less than a Monster and it costs nearly twice as much, so 'cleaner' isn't worth that to me.",
+  "would_change_my_mind": "A multipack deal that brings it down to about 30 CZK a can, sold in the station shops I pass every day.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 50
+}

@@ -1,0 +1,23 @@
+{
+  "business": "yerby (yerby s.r.o., Czechia, non-VAT payer). All amounts in CZK",
+  "currency": "CZK",
+  "unit": "can",
+  "price": 55,
+  "variable": [
+    {"label": "Production COGS, 330 ml can (founder quote, incl. non-reclaimable VAT)", "cost": 24.0},
+    {"label": "ESTIMATE: shipping carton / packaging (~18 CZK per 6-pack box)", "cost": 3.0},
+    {"label": "ESTIMATE: payment gateway fees (~2.5% of price incl. per-order fee)", "cost": 1.4},
+    {"label": "ESTIMATE: D2C shipping subsidy (~50 CZK per 12-can order)", "cost": 4.0},
+    {"label": "ESTIMATE: marketing / CAC incl. free sampling cans", "cost": 5.0}
+  ],
+  "fixed_monthly": [
+    {"label": "Monthly operating costs (founder estimate)", "cost": 10000}
+  ],
+  "startup": [
+    {"label": "Upfront startup costs (founder estimate; modelled as EXCLUDING the 72,000 first batch, which is counted per can in COGS)", "cost": 300000}
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 33.333,
+  "ramp_per_day": [10, 13.333, 16.667, 20, 23.333, 26.667, 30, 33.333, 33.333, 33.333, 33.333, 33.333],
+  "notes": "Volumes are cans/month divided by 30. Base ramp: 300, 400, ... up to 1,000 cans/month from month 8 (9,200 cans in year 1). Panel sanity check: 28/100 simulated buyers would buy, ~1.8 cans each in month 1, mostly trial; the ramp assumes repeat buying that the panel did not show."
+}

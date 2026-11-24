@@ -1,0 +1,39 @@
+{
+  "business": "yerby, a cold-brewed sparkling yerba mate drink in a 330 ml can, launching in Czechia",
+  "target": "Czech energy-drink buyers aged 18 to 40 who drink Red Bull, Monster or similar at least a few times a week and are open to something cleaner (all amounts, including your yearly income, are in Czech crowns, CZK, not dollars)",
+  "where": "Czechia",
+  "age": [18, 40],
+  "segments": [
+    {"name": "Student or first job", "share": 0.30, "income": [80000, 320000]},
+    {"name": "Early-career office or hybrid worker", "share": 0.35, "income": [380000, 720000]},
+    {"name": "Shift, manual or driving job", "share": 0.20, "income": [300000, 540000]},
+    {"name": "Established professional or freelancer", "share": 0.15, "income": [720000, 1400000]}
+  ],
+  "behaviours": [
+    {"name": "Daily energy-drink regular", "share": 0.22, "how": "Drinks a Monster or Red Bull most days, usually grabbed at a petrol station, Albert or Tesco on the way."},
+    {"name": "Value buyer", "share": 0.18, "how": "Buys Semtex, Big Shock or Monster 4-packs on offer; price per can matters more than the brand."},
+    {"name": "Sugar-free switcher", "share": 0.15, "how": "Already moved to Zero or Ultra versions and reads the label for sugar and sweeteners."},
+    {"name": "Gym and fitness", "share": 0.13, "how": "Drinks pre-workout or energy cans around training, buys from fitness e-shops like Vilgain or GymBeam."},
+    {"name": "Trend chaser", "share": 0.12, "how": "Tries new cans from Rohlík or a café fridge and posts the good ones on Instagram."},
+    {"name": "Loyal to one brand", "share": 0.10, "how": "Has drunk the same energy drink for years and knows exactly how it hits."},
+    {"name": "Café and bistro grabber", "share": 0.10, "how": "Buys drinks out of the fridge at the café or bistro where they get lunch or work."}
+  ],
+  "objections": [
+    "55 CZK for 330 ml when a Red Bull is about 45 and a big Monster is about 46",
+    "It doesn't say how much caffeine is in it, so will it actually kick like my usual can?",
+    "Unsweetened yerba mate sounds bitter or like grass tea",
+    "Every brand says natural now, and YEAHRBA mate is cheaper on Rohlík",
+    "Where can I actually buy it? I'm not ordering cans online",
+    "I'd try one out of curiosity but not switch from what I drink",
+    "The label is in English, so is this even a Czech product, and what's in it?"
+  ],
+  "habits": [
+    "you commute by tram or metro and grab a drink at the station shop",
+    "you drive for work and stop at petrol stations several times a week",
+    "you study late before exams with an energy drink next to you",
+    "you go to the gym three times a week after work",
+    "you order groceries from Rohlík most weeks",
+    "you have lunch at the same bistro near work most days",
+    "you work night or early shifts"
+  ]
+}
